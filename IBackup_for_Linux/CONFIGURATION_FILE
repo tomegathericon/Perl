@@ -1,0 +1,14 @@
+USERNAME = <your account username>
+PASSWORD = <your account password> 
+ENCTYPE  = <DEFAULT/PRIVATE>
+PVTKEY   = <myprivate-encryption-key>  
+EMAILADDRESS = sample@test.com 
+BACKUPSETFILEPATH = ./BackupsetFile.txt 
+RESTORESETFILEPATH = ./RestoresetFile.txt
+EXCLUDELISTFILEPATH = ./ExcludeList.txt
+RESTORELOCATION = <location on the local computer>
+BACKUPLOCATION = <data to be backed up under this name in server>
+RESTOREFROM = <data to be restored from existing name in server>
+RETAINLOGS = <YES/NO>
+PROXY = <PROXY USER>:<PROXY PASSWORD>@<PROXY IP>:<PROXY PORT>
+BWTHROTTLE = <Number between 1 to 100 to restrict the bandwidth usage>

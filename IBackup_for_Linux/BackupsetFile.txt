@@ -1,0 +1,7 @@
+/root/Desktop/Folder1
+
+/root/Desktop/Folder2/File1
+
+/root/Desktop/Folder2/File2
+
+
